@@ -1,16 +1,16 @@
-## Hi there 👋
+## StruttonPigeon
 
-<!--
-**struttonpigeon/struttonpigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security practitioner in Singapore. Offensive testing and DFIR.
 
-Here are some ideas to get you started:
+**Focus:** Active Directory exploitation, web application testing, malware
+reverse engineering, memory forensics, detection engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:** OSCP+, GCIH. CRTO in progress.
+
+**Currently:** Full time offensive and defensive practitioner programme with
+client deployment in financial services.
+
+**Tooling:** Burp Suite, BloodHound, Impacket, netexec, Ghidra, Volatility,
+Splunk, FLARE VM. Python, Bash, PowerShell.
+
+Pinned repositories are original work. Forks are reference material.
