@@ -5,7 +5,8 @@ Security practitioner in Singapore. Offensive testing and DFIR.
 **Focus:** Active Directory exploitation, web application testing, malware
 reverse engineering, memory forensics, detection engineering.
 
-**Certifications:** OSCP+, GCIH, Security+, Network+. CRTO in progress.
+**Certifications:** OSCP+, GCIH. 
+Upcoming certs: CRTO, OSWE, BSCP, CTRO II
 
 **Currently:** Full time offensive and defensive practitioner programme,
 with client deployment in financial services.
