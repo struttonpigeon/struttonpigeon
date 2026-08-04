@@ -14,4 +14,4 @@ with client deployment in financial services.
 **Tooling:** Burp Suite, BloodHound, Impacket, netexec, Rubeus, Responder,
 Ghidra, Volatility, FLARE VM, Splunk, Sigma, YARA. Python, Bash, PowerShell.
 
-Pinned repositories are original work. Forks are reference material.
+Pinned repositories are original work or amendments to exploits. Forks are reference material.
