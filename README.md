@@ -1,6 +1,6 @@
 ## StruttonPigeon
 
-Security practitioner in Singapore. Offensive testing and DFIR.
+Security Engineer. Offensive testing and DFIR.
 
 **Focus:** Active Directory exploitation, web application testing, malware
 reverse engineering, memory forensics, detection engineering.
