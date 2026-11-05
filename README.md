@@ -25,7 +25,7 @@ Burp Suite, BloodHound, Impacket, netexec, Rubeus, Responder, Ghidra, Volatility
 
 ## Highlights
 
-- [**php2shell**](https://github.com/struttonpigeon/phppoc) — Full RCE PoC for CVE-2026-109618 / CVE-2026-109619 (PHP session handler, CVSS 9.2) with Sigma and Suricata detection rules
+- [**php2shell-detection-and-poc**](https://github.com/struttonpigeon/phppoc) — Full RCE PoC for CVE-2026-109618 / CVE-2026-109619 (PHP session handler, CVSS 9.2) with Sigma and Suricata detection rules
 - [**Windows-exploit-suggester**](https://github.com/struttonpigeon/Windows-exploit-suggester) — PowerShell LPE scanner with 115+ CVE database and misconfiguration checks
 - [**oscp-decision-tree**](https://github.com/struttonpigeon/oscp-decision-tree) — Interactive exam methodology covering privesc, AD attacks, and post-exploitation
 - [**OSCPToolkit**](https://github.com/struttonpigeon/OSCPToolkit) — Automated offline toolkit staging for Kali with integrity verification
