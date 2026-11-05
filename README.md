@@ -29,5 +29,6 @@ Burp Suite, BloodHound, Impacket, netexec, Rubeus, Responder, Ghidra, Volatility
 - [**Windows-exploit-suggester**](https://github.com/struttonpigeon/Windows-exploit-suggester) — PowerShell LPE scanner with 115+ CVE database and misconfiguration checks
 - [**oscp-decision-tree**](https://github.com/struttonpigeon/oscp-decision-tree) — Interactive exam methodology covering privesc, AD attacks, and post-exploitation
 - [**OSCPToolkit**](https://github.com/struttonpigeon/OSCPToolkit) — Automated offline toolkit staging for Kali with integrity verification
+- [**cobaltstrike-yara**](https://github.com/struttonpigeon/cobaltstrike-yara) — 22 YARA detection rules for Cobalt Strike loaders, beacons, and post-exploitation artifacts
 
 Pinned repositories are original work or amendments to exploits. Forks are reference material.
