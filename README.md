@@ -6,7 +6,7 @@ Security Engineer. Offensive testing and DFIR.
 reverse engineering, memory forensics, detection engineering.
 
 **Certifications:** OSCP+, GCIH. 
-Upcoming certs: CRTO, OSWE, BSCP, CTRO II
+Upcoming certs: CRTO, OSWE
 
 **Currently:** Full time offensive and defensive practitioner, Security architecture and tool evaluation
 
