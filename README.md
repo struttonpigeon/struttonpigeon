@@ -4,10 +4,8 @@ Security Engineer. Offensive testing and DFIR.
 
 ## Focus
 
-- Active Directory exploitation
 - Web application testing
 - Malware reverse engineering
-- Memory forensics
 - Detection engineering
 
 ## Certifications
